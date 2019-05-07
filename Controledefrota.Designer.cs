@@ -108,6 +108,7 @@
             this.txtCarros.Name = "txtCarros";
             this.txtCarros.Size = new System.Drawing.Size(291, 225);
             this.txtCarros.TabIndex = 3;
+            this.txtCarros.Visible = false;
             // 
             // txtCaminhoes
             // 
@@ -117,6 +118,7 @@
             this.txtCaminhoes.Name = "txtCaminhoes";
             this.txtCaminhoes.Size = new System.Drawing.Size(291, 225);
             this.txtCaminhoes.TabIndex = 4;
+            this.txtCaminhoes.Visible = false;
             // 
             // lblModelo
             // 
@@ -209,6 +211,7 @@
             this.pbCarros.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pbCarros.TabIndex = 13;
             this.pbCarros.TabStop = false;
+            this.pbCarros.Visible = false;
             // 
             // pbCaminhao
             // 
@@ -219,6 +222,7 @@
             this.pbCaminhao.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.pbCaminhao.TabIndex = 14;
             this.pbCaminhao.TabStop = false;
+            this.pbCaminhao.Visible = false;
             // 
             // Controledefrota
             // 

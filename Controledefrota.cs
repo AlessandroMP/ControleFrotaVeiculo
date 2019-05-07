@@ -40,7 +40,7 @@ namespace Controle_de_Frota
                 txtCarros.AppendText(novocarro.propriedadesModelo + "\t");
                 txtCarros.AppendText(novocarro.propriedadesPlaca + "\t");
                 txtCarros.AppendText(novocarro.propriedadesKm + "\n");
-                Limpar();
+                 Limpar();
             }
             else
             {
@@ -54,7 +54,7 @@ namespace Controle_de_Frota
                 txtCaminhoes.AppendText(novoCaminhao.propriedadesPlaca + "\t");
                 txtCaminhoes.AppendText(novoCaminhao.propriedadesKm + "\t");
                 txtCaminhoes.AppendText(novoCaminhao.propriedadeEixo + "\n");
-                Limpar();
+                 Limpar();
             }
         }
         private void BtnCaminhao_Click(object sender, EventArgs e)
@@ -81,7 +81,7 @@ namespace Controle_de_Frota
             pbCaminhao.Visible = false; //transforma em visivel o componente pictureBox pbCaminhao.
         }
 
-        private void Limpar()
+        private void Limpar() //método Limpar
         {
             txtModelo.Clear();
             txtPlaca.Clear();
