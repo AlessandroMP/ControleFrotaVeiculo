@@ -1,0 +1,10 @@
+E:\PROJETOS C#\Controle de Frota\obj\Debug\Controle de Frota.csprojAssemblyReference.cache
+E:\PROJETOS C#\Controle de Frota\obj\Debug\Controle_de_Frota.Controledefrota.resources
+E:\PROJETOS C#\Controle de Frota\obj\Debug\Controle_de_Frota.Properties.Resources.resources
+E:\PROJETOS C#\Controle de Frota\obj\Debug\Controle de Frota.csproj.GenerateResource.cache
+E:\PROJETOS C#\Controle de Frota\obj\Debug\Controle de Frota.csproj.CoreCompileInputs.cache
+E:\PROJETOS C#\Controle de Frota\bin\Debug\Controle de Frota.exe.config
+E:\PROJETOS C#\Controle de Frota\bin\Debug\Controle de Frota.exe
+E:\PROJETOS C#\Controle de Frota\bin\Debug\Controle de Frota.pdb
+E:\PROJETOS C#\Controle de Frota\obj\Debug\Controle de Frota.exe
+E:\PROJETOS C#\Controle de Frota\obj\Debug\Controle de Frota.pdb

@@ -1,0 +1,1 @@
+commit -m "Usando a propriedades dos atributos, Aplicação dos métodos de acesso Set e Get no programa, aprendendo a utilizar a propriedade AppendText para ajustar a exibição de conteúdos bem como o processo de Herança de classes"
